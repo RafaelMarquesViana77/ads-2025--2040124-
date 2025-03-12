@@ -3,7 +3,7 @@
 # 📚 Diário de Engenharia de Software - {Rafael Marques Viana}
 
 ## 🔍 Introdução às Metodologias de Desenvolvimento de Software  
-A metodologia é importante pois ela ajuda a deixar um processo menos complexo, ajudando o desenvolvedor a entregar no prazo sem erros. Com uma metodologia é possível entregar um produto final de alta qualidade.
+A metodologia é importante pois ela ajuda a deixar um processo menos complexo, ajudando o desenvolvedor a entregar no prazo minimizando os erros. Com uma metodologia é possível entregar um produto final de alta qualidade.
 
 ## 📖 Metodologias Tradicionais  
 ### 🛠️ Cascata  
