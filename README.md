@@ -78,4 +78,6 @@ O GitHub ajuda no gerenciamento de projetos, ele oferece uma variedade de ferram
 O GitLab Facilita a colaboração, organização, automação e entrega contínua de software de alta qualidade, alinhando-se bem com metodologias ágeis e práticas modernas de desenvolvimento e DevOps.
 
 ### 🎮 Jira / Trello  
-(Explique como essas ferramentas auxiliam na organização e acompanhamento de tarefas.)
+Jira: O jira permite criar categorias, priorizar e incluir itens aos membros, diminuindo o tempo com o gerenciamento do trabalho que foi passado a todos. Nele é possivel monitorar cada etapa do trabalho até a conclusão do mesmo, é possivel também determinar quem pode ver e fazer determinadas ações.
+
+Trello: O trello não é muito diferente do Jira que eu citei acima, nele é possivel criar planos, colaborar em projetos, organizar fluxos de trabalho e acompanhar o progresso com visualização e produtividade. No trello também é possivel determinar uma data pra que o trabalho seja entregue podendo ser adicionados lembretes sobre os prazos das atividades passadas.
