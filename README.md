@@ -74,7 +74,8 @@ Kanban é um método que utiliza a gestão visual, podendo ser utilizados post-i
 ## 🔧 Ferramentas de Gestão de Desenvolvimento  
 ### 💪 GitHub / GitLab  
 O GitHub ajuda no gerenciamento de projetos, ele oferece uma variedade de ferramentas que facilitam o controle de versão, colaboração, organização e entrega de software.
-O GitLab 
+
+O GitLab Facilita a colaboração, organização, automação e entrega contínua de software de alta qualidade, alinhando-se bem com metodologias ágeis e práticas modernas de desenvolvimento e DevOps.
 
 ### 🎮 Jira / Trello  
 (Explique como essas ferramentas auxiliam na organização e acompanhamento de tarefas.)
